@@ -1,0 +1,10 @@
+# Versions used for the published correctness and throughput measurements.
+# Install the matching CUDA build of PyTorch first, as shown in README.md.
+torch==2.13.0
+flash-linear-attention==0.5.2
+triton==3.7.1
+einops==0.8.2
+numpy>=2.0
+sentencepiece>=0.2.0
+pytest==8.*
+ruff
