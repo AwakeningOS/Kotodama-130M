@@ -1,5 +1,7 @@
 # Kotodama-130M
 
+**日本語** | [English](README_EN.md)
+
 Kotodama-130Mは、同じ小さな思考回路を何度か繰り返して使う、約1.3億パラメータの
 実験的な言語モデルです。学習済みweight、tokenizer、学習データは同梱していません。
 このrepositoryには、モデル本体、学習、checkpoint再開、データ準備、文章生成のコードだけを
