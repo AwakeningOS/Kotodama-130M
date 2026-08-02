@@ -1,5 +1,7 @@
 # Kotodama-130M current research record — 2026-08-02
 
+**日本語** | [English](RESEARCH_EN.md)
+
 この文書は `kotodama_stable_loop_130m_v2` だけを対象にします。
 過去のモデル定義や実験は現行判断の根拠に使いません。
 

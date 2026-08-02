@@ -227,8 +227,10 @@ scripts/train_tokenizer.py
 scripts/prepare_data.py
 scripts/generate_text.py
 tests/                    CPU correctness tests
-RESEARCH.md               design sources and unresolved questions
+RESEARCH_EN.md            design sources and unresolved questions
 ```
+
+See the [research record](RESEARCH_EN.md) for the reasoning behind the design.
 
 ## Not included
 

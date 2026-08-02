@@ -195,6 +195,8 @@ tests/                    CPU correctness tests
 RESEARCH.md               設計根拠と未解決点
 ```
 
+設計判断の詳しい根拠は[研究記録](RESEARCH.md)にまとめています。
+
 ## 収録していないもの
 
 - 学習済みweightとoptimizer checkpoint
